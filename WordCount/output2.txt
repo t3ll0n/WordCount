@@ -1,0 +1,80 @@
+
+Name: Tellon Smith
+Course: CS 3013 - Advanced Structures and Algorithms, Spring 16, Dr. Johnson
+Program Assignment: #2
+Due Date: Thursday, Jan. 25, 2016, 2PM
+Purpose: This program stores words from an input file into a sorted doubly 
+linked list. It also counts the number of times the words appear.
+
+Welcome to the Word Count Program!
+
+----------------------------------------------------------------------
+                      Word Count Program
+----------------------------------------------------------------------
+
+List of Words:
+a - 3
+access - 1
+addition - 1
+after - 1
+all - 1
+and - 4
+are - 1
+as - 1
+at - 2
+attack - 1
+been - 2
+center - 1
+complete - 1
+computer - 1
+computers - 1
+ct - 1
+down - 1
+email - 1
+facilities - 1
+for - 1
+hackers - 1
+hands - 1
+have - 2
+having - 2
+hollywood - 2
+hospital - 1
+in - 1
+is - 2
+keep - 1
+lab - 1
+logs - 1
+medical - 1
+memorial - 1
+more - 1
+needed - 1
+of - 1
+on - 2
+other - 1
+paper - 2
+patient - 1
+patients - 1
+pencil - 1
+pharmacy - 1
+presbyterian - 1
+ransomware - 1
+records - 1
+registration - 1
+rely - 1
+scans - 1
+some - 1
+staff - 1
+systems - 1
+tasks - 1
+than - 1
+the - 3
+to - 6
+transported - 1
+unable - 1
+unavailable - 1
+use - 1
+week - 1
+without - 1
+work - 1
+
+Thank you for using the Welcome to the Word Count Program... Goodbye!
